@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kv468473
+- 👋 Hi, I’m @k
 - 👀 I’m interested in Web Development and UI/UX designing
 - 🌱 I’m currently learning different programming languages and backend development 
 - 💞️ I’m looking to collaborate on ...
